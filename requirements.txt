@@ -1,0 +1,8 @@
+google-genai
+python-dotenv
+gradio
+langchain-google-genai
+langgraph
+langchain
+scikit-learn
+numpy
